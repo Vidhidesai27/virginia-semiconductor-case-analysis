@@ -1,4 +1,10 @@
 # 📊 Virginia Semiconductor Case Study
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Regression](https://img.shields.io/badge/Method-Multiple%20Regression-blue)
+![Tukey](https://img.shields.io/badge/Transformation-Tukey%E2%80%99s%20Ladder-purple)
+![Statistics](https://img.shields.io/badge/Focus-Statistical%20Analysis-critical)
+![Domain](https://img.shields.io/badge/Domain-Business%20Analytics-yellowgreen)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 This project presents a detailed regression-based case analysis of Virginia Semiconductor, exploring key drivers of customer purchase size, sales growth, and employee productivity. The project includes multiple regression models, statistical testing, and business recommendations.
 
